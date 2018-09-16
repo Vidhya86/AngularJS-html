@@ -1,0 +1,30 @@
+﻿
+<div  ng-app="myApp">
+    <p>
+        <a href="#home">Home</a>
+        <a href="#ngexpression">ng-expressions</a>
+        <a href="#ngbind">ng-bind</a>
+    </p>
+    <div ng-view>
+        <p>this will view will be replaced</p>
+
+    </div>
+
+</div>
+
+<script>
+var app = angular.module("myApp", ["ngRoute"]);
+app.config(function($routeProvider) {
+    $routeProvider
+    .when("/home", {
+        templateUrl: "/home/index"
+    })
+    .when("/ngexpression", {
+        templateUrl: "/home/ngexpression"
+    })
+    .when("/ngbind", {
+        templateUrl: "/home/ngbind"
+    });
+    
+});
+</script>

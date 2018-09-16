@@ -1,0 +1,72 @@
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\csc.exe
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\vbc.exe
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\WebApplication1.dll.config
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\WebApplication1.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\bin\WebApplication1.pdb
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\obj\Debug\AngularJSHTML.csprojResolveAssemblyReference.cache
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\obj\Debug\WebApplication1.dll
+E:\DOT Net Training\Projects\AngularJS\AngularJS\AngularJS\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\csc.exe
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Collections.Immutable.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\vbc.exe
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe.config
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll.config
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.pdb
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\AngularJSHTML.csprojResolveAssemblyReference.cache
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.dll
+E:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.pdb
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\csc.exe
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Collections.Immutable.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\vbc.exe
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe.config
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll.config
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.pdb
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\AngularJSHTML.csprojResolveAssemblyReference.cache
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.dll
+D:\DOTNetTraining\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.pdb
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\csc.exe
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\vbc.exe
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll.config
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\bin\WebApplication1.pdb
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\AngularJSHTML.csprojResolveAssemblyReference.cache
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.dll
+C:\Projects\AngularJS\AngularJS\AngularJSHTML\obj\Debug\WebApplication1.pdb

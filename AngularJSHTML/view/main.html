@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angular JS Application</title>
+    <script src="../scripts/angular.min.js"></script>
+    <script src="../Scripts/angular-route.js"></script>
+    <script src="../scripts/jquery-1.10.2.min.js"></script>
+    <script src="../scripts/bootstrap.min.js"></script>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link href="../css/Site.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div ng-app="myApp">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#/"><img src="../images/AngularJS-large.png" height="50px" /></a>
+
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Directives<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#ngbind">ng-bind</a></li>
+                                <li><a href="#nginit">ng-init</a></li>
+                                <li><a href="#ngexpression">ng-expression</a></li>
+                                <li><a href="#ngcontroller">ng-controller</a></li>
+                                <li><a href="#formvalidation">Form Validation</a></li>
+                            </ul>
+                        
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content" >
+            <div ng-view>
+
+            </div>
+        </div>
+    </div>
+   
+</body>
+</html>
+
+<script>
+var app = angular.module("myApp", ["ngRoute"]);
+app.config(function($routeProvider) {
+    $routeProvider
+        .when("/", {
+            templateUrl: "/view/home.html"
+        })
+        .when("/nginit", {
+            templateUrl: "/view/nginit.html"
+        })
+        .when("/ngexpression", {
+            templateUrl: "/view/ngexpression.html"
+        })
+        .when("/ngcontroller", {
+            templateUrl: "/view/ngcontroller.html"
+        })
+        .when("/ngbind", {
+            templateUrl: "/view/ngbind.html"
+        })
+        .when("/formvalidation", {
+            templateUrl: "/view/formvalidation.html"
+        })
+
+    ;
+
+});
+</script>
+
